@@ -1,0 +1,30 @@
+Before mockup
+
+simple mag:
+  good
+    经典的字体，简洁的板式。
+  bad
+    换成中文字体，视觉效果可能会差很多
+    需要很长时间，积累足够的文章页面才会看着比较丰富
+
+
+Hoarder
+  nice, try first
+
+
+Studio
+  good
+    时尚简洁
+  bad
+    需要很长时间，积累足够的文章页面才会看着比较丰富
+    有些过于依赖图片，适合以图片为主，文字为辅的时尚题材
+
+    
+PixelPower
+  about me 部分看着还不错
+    
+Salient
+  good
+    非常好的模板，适合从公司到个人网站
+    简洁
+    
