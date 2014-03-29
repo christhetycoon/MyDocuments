@@ -1,0 +1,11 @@
+Stage 2
+
+* home 和 catalog 使用同样页面模板
+
+Hoarder VS Salient
+  Hoarder 结构和导航更加清晰
+  在初期，文章不多的时候显得更加亲切
+  需要做的改动比较少
+  
+确定，mockup 从 Hoarder 开始
+    
